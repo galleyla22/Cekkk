@@ -1,78 +1,104 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>adnrhl</title>
-    <link rel="stylesheet" href="Ini_CSS/Css_1.css">
+    <title>halaman 2</title>
 </head>
-<body><h2>Aku Sedang Belajar HTML </h2> <div id="kembali-1"></div> 
-    <a href="halaman_2.html"><small>halaman 2</small></a>
-    <br><cite><h3>Perdana Mukti</h3></cite>
-    <p class="p1">.Malam Ini tanggal 1 desember 2024 mengisi kekosongan dimalam minggu karena adinda sudah tidur saya sedang belajar membuat html, yang mana ini awal mula saya membuat webset saya sendiri</p>
-    <br>perdana mukti said;    <blockquote><q>adalah aku bukan kau bukan pula durian runtuh aku adalah ikan dari air asin yang bila mana kalo di air tawar akan mati, jadi untuk itu walaupun aku di air asin akumah tetep senang nyaman karna itu tempat terbaik buat aku bukan di air tawar walaupun ada si lele dan mujair juga ah, mana ini apa lagi aku bingung euy. inikan cuman latihan kenapa bikinnya serius gini atuh fak ah kata gua teh udah kaliya cukup segini juga banyak</q></blockquote>
-    sudah dulu yah besok lanjut latihan ke 11
-    <a href="#foto kabupaten garut">foto kabupaten garut</a> / <a href="#nama orang">nama orang</a> / <a href="#nama bulan">nama bulan</a> / <a href="#nama hari">nama hari</a>    
-    <br> <br><a href="#baso malang dekat rumah dinda jatwar pondok gede">foto yang jualan mie ayam ter'enak di pondok gede</a>
-<br> <br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <ol>
-        <li id="nama hari">Nama Hari
-            <ul type="disc">
-                <li>senin</li>
-                <li>selasa</li>
-                <li>rabu</li>
-            </ul> 
-            <br>
-           <a href="#kembali-1">Balik</a>
-        </li>
+<body>
+    <P>ini adalah halaman dua</P>
+    <hr>
+    <mark><abbr title="Halaman adalah ya halaman"> Halaman </mark></abbr> <br><br>
+    <a href="Latihan_1.html">Kembali Ke Beranda</a>
+    <br><br>
+    <table border="1" cellspacing="1" cellpadding="10" align="center">
+        <caption><h3>format table html</h3></caption>
         <br>
-     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b><br><br><br><br><br><br><br><br><br><br><br></b>
-        <li id="nama bulan">nama bulan
-            <ul type="circle">
-                <li>januarai
-                    <ul type="square">
-                        <li>februari</li>
-                        <li>maret</li>
-                        <li>april</li>
-                    </ul>
-                </li>
-                
-                <li>mei</li>
-                <li>juni</li>
-            </ul>
-            <a href="#kembali-1">Balik</a>
-        </li>
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-        <li id="nama orang">nama orang
-            <ul type="square">
-                <li>jam jam</li>
-                <li>hud hudi
-                    <ul type="circle">
-                        <li>jamaika</li>
-                        <li>uciha nababan</li>
-            </ul>
-            <br><br>
-            <a href="#kembali-1">Balik</a>
-        </li>
-    </ol>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></b>
-  <h2 id="foto kabupaten garut">foto kabupaten Garut</h2>
-<img src="c:\Users\user\Downloads\Latihan-html\galeri\kabupaten garut.webp" alt="kabupaten grt">  
-
-<br><br> <a href="#kembali-1">Balik</a><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h2 id="baso malang dekat rumah dinda jatwar pondok gede"><p class="p2">mie ayam dekat rumah dinda jatwar pondok gede tidak jauh dari rumah adindarahel ini adalah baso ter'enak jika kalian sedang melewati daerah ini wajib mencobanya guys </p><br>
-    <small>fyi; Sebenernya aku nyangkanya ini tukang jualan baso malang tapi gapapa ini sama-sama enak juga</small></h2>
-<img src="c:\Users\user\Downloads\Latihan-html\galeri\jatwar pdg.JPG" alt="basmal">
-<p class="p2">Informasi Sekolah. Nama, : SD NEGERI JATIWARINGIN V. NPSN, : 20222783. Alamat, : Jl. Masjid No. 1. Desa / Kelurahan, : Jatiwaringin. Kecamatan, : Pondokgede.</p> 
-<Br>
-    <a href="#kembali-1">Balik</a>
+        <tr>
+            <th>Kota/Kabupaten</th>
+            <th>Provinsi</th>
+            <th>kode Pos</th>
+            </tr>
+            <td>Garut</td>
+            <td>Jawa Barat</td>
+            <td>44111</td>
+            <tr>
+                <td>Solo</td>
+                <td>Jawa Tengah</td>
+                <td><abbr title="Kecamatan Banjarsari
+                    1. Kelurahan Banyuanyar — 57137
+                    
+                    2. Kelurahan Gilingan — 57134
+                    
+                    3. Kelurahan Kadipiro — 57136
+                    
+                    4. Kelurahan Keprabon — 57131
+                    
+                    5. Kelurahan Kestalan — 57133
+                    
+                    6. Kelurahan Ketelan — 57132
+                    
+                    7. Kelurahan Manahan — 57139
+                    
+                    8. Kelurahan Mangkubumen — 57139
+                    
+                    9. Kelurahan Nusukan — 57135
+                    
+                    10. Kelurahan Punggawan — 57132
+                    
+                    11. Kelurahan Setabelan — 57133
+                    ">57112</abbr></td>
+                <tr>
+                    <td>Medan</td>
+                    <td>Sumatra Utara, wow jauh
+                        <br>dari sini kesana sangat jauh
+                    </td>
+                    <td>20028</td>
+                </tr>
+            </tr>
+        </tr>
+    </table>
+        <br>
+        <Fieldset ><legend>Masukan Identitas</legend>
+        <p>Nama</p>
+        <input type="text">
+        <P>Kata Sandi</P>
+        <input type="password">
+        <br>
+        <p>Jenis Kelamin <Input type="radio"name="Jenis Kelamin"value='Laki-Laki'>Laki-Laki</Input>
+        <Input type="radio"name="Jenis Kelamin"value="Perempuan">perempuan</Input><Input type="radio"name="Jenis Kelamin"value="Tidak Jelas">Tidak Jelas</Input</p>
     <br>
-<h5 style=" text-align: center; color: aquamarine;font-size: 50px;"> Untuk Selanjutnya istirahat di tempat grak..!!</h5>
-<br>
+    <p>Tanggal Lahir  
+    <input type="date"></p>
+    <br>
+    <p>Bahasa Yang Dikuasaii
+    <Input type="checkbox">Bahasa Sunda</Input>
+    <Input type="checkbox">Bahasa inggris</Input>
+    <Input type="checkbox">Bahasa Arab</Input></p>
+    <br><br>
+    <p>Masukan Alamat Lengkap :
+    <textarea name="Masukan Alamat" id="Masukan Alamat"rows="4" cols="50"></textarea></p>
+    <br>
+    <label for="Makanan">pilih makanan:</label> 
+  <select name="makanan" id="makanan">
+    <option value="Soto Lamongan">soto</option>
+    <option value="sate Madura"selected="sate">Sate</option>
+    <option value="sayur waluh">sayur labu</option>
+    <option value="rendang">rendang</option>
+  </select>
+   <BR><br><br>
+    <label for="Minuman">pilih minuman</label>
+    <select name="minuman" id="minuman">
+    <option value="jahe">jahe</option>
+    <option value="ale ale"selected>ale ale</option>
+    <option value="orson">orson</option>
+    <option value="marimas">marimas</option>
+</select>
+    <br><br></Fieldset>
+    <br>
+<p style="text-align: center;"><button>Masuk</button></p>
+    
 
-<a href="#kembali-1">kembali ke atas</a>
-<br>
-
+    
 </body>
-</html>  
+</html>
